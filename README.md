@@ -8,3 +8,18 @@ Palmoria Group is facing issues on gender inequality in its three regions locate
 - Extract insight revealing if there is a gender pay gap among the workforce and identify the department and region that Will be the focus of the management
 - Analysis the salary structure of employee Based on gender and check point out if the company meet the adopted minimum of 90k pay to employee
 - Allocating bonuses to employee based on performance ratings 
+## Data Description 
+The project contains two data set 
+- The employee data set containing 1,016 rows and columns
+- Bonus rules containing thr rules for making payments to employee based on thier performance and department
+## My Approach 
+- **Data cleaning and Transformation**: I extracted and load the data into power BI query editor to carry out the following steps:
+1. The Gender column contains male, female and blank cells. I replaced the blank cells with unspecified gender
+2. The department column had several NULL, i removed the Null reducing the column to 987 rows
+3. The salary column had blank spaces which was passed to my knowledge that they were not longer working for the organization so i removed them reducing the row to 946
+4. Checked for duplicate and found 3
+- **Added new columns**: I created a column column called salary range using a conditional statement to group the employee salary eg 10,000- 20,000, 20,000-30,000 etc
+- **Merged Tables**
+I was able to create a merged table by joining the employee table and bonus rules with the unique identifier which is the department and ratings columns
+
+## Findings
