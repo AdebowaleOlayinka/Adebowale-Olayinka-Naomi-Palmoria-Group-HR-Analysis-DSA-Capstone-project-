@@ -23,3 +23,7 @@ The project contains two data set
 I was able to create a merged table by joining the employee table and bonus rules with the unique identifier which is the department and ratings columns
 
 ## Findings
+![palmoria](https://github.com/user-attachments/assets/71648aa8-dbe5-461e-99ca-917f1e6f67b5)
+
+![palmoria 2](https://github.com/user-attachments/assets/bd920115-bba0-4488-88d3-be88941a6f60)
+
