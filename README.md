@@ -25,7 +25,9 @@ I was able to create a merged table by joining the employee table and bonus rule
 ## Findings
 - **Gender Distribution**:Palmoria Group has a total number of 943 active employee in the organization which is splitted into 464 Male, 440 Female and 39 undisclosed Gender
 - **Gender distribution by Department**: Out of 12 department legal, Accounting and support was seen to have more male employees while Research and Development and service department had more females
-- **Gender by Region**: Among the three main region Kaduna had over 333 employee(male= 182 and Female= 164) showing more male in the region and Lagos has the least of employee 124 male and 118 female 
+- **Gender by Region**: Among the three main region Kaduna had over 333 employee(male= 182 and Female= 164) showing more male in the region and Lagos has the least of employee 124 male and 118 female
+- **Performance Ratings by Gender**: In the performance ratings for Good and very good the female performed better than the male which reflected in higher bonus amount.
+- **Salary Structure**: On an average salary the male earn more than the female in most regions and department
 
 ![palmoria](https://github.com/user-attachments/assets/71648aa8-dbe5-461e-99ca-917f1e6f67b5)
 
