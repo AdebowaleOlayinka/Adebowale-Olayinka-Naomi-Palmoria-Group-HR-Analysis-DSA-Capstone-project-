@@ -28,6 +28,12 @@ I was able to create a merged table by joining the employee table and bonus rule
 - **Gender by Region**: Among the three main region Kaduna had over 333 employee(male= 182 and Female= 164) showing more male in the region and Lagos has the least of employee 124 male and 118 female
 - **Performance Ratings by Gender**: In the performance ratings for Good and very good the female performed better than the male which reflected in higher bonus amount.
 - **Salary Structure**: On an average salary the male earn more than the female in most regions and department
+- **Minimum Salary compliance**: The minimum salary compliance is 90k and 292 out of out 943 employee earned below the minimum salary requirement. This indicates that plasmodia group did not meet up with the requirements
+- **Gender pay gap Analysis**: The overall gender pay gap is approximately 4% and it varies among each department and region. on an average salary female earn approximately 4% lesser than the male
+The table shows the gender pay gap across each department
+|Department|Gender pay gap|Comments|
+|---|---|---|
+
 
 ![palmoria](https://github.com/user-attachments/assets/71648aa8-dbe5-461e-99ca-917f1e6f67b5)
 
