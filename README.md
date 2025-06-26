@@ -15,8 +15,8 @@ The project contains two data set
 ## My Approach 
 - **Data cleaning and Transformation**: I extracted and load the data into power BI query editor to carry out the following steps:
 1. The Gender column contains male, female and blank cells. I replaced the blank cells with unspecified gender
-2. The department column had several NULL, i removed the Null reducing the column to 987 rows
-3. The salary column had blank spaces which was passed to my knowledge that they were not longer working for the organization so i removed them reducing the row to 946
+2. The salary column had blank spaces which was passed to my knowledge that they were not longer working for the organization so i removed them reducing the row to 972
+3.The department column had several NULL, i removed the Null reducing the column to 987 rows
 4. Checked for duplicate and found 3
 - **Added new columns**: I created a column column called salary range using a conditional statement to group the employee salary eg 10,000- 20,000, 20,000-30,000 etc
 - **Merged Tables**
