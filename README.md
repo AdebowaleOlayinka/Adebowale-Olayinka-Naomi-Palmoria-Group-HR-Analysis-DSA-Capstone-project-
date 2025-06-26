@@ -31,9 +31,10 @@ I was able to create a merged table by joining the employee table and bonus rule
 - **Minimum Salary compliance**: The minimum salary compliance is 90k and 292 out of out 943 employee earned below the minimum salary requirement. This indicates that plasmodia group did not meet up with the requirements
 - **Gender pay gap Analysis**: The overall gender pay gap is approximately 4% and it varies among each department and region. on an average salary female earn approximately 4% lesser than the male
 The table shows the gender pay gap across each department
-|Department|Gender pay gap|Comments|
-|---|---|---|
 
+| Department| Gender pay gap| Comments|
+|----|---|---|
+| 
 
 ![palmoria](https://github.com/user-attachments/assets/71648aa8-dbe5-461e-99ca-917f1e6f67b5)
 
