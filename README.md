@@ -10,7 +10,7 @@ Palmoria Group is facing issues on gender inequality in its three regions locate
 - Allocating bonuses to employee based on performance ratings 
 ## Data Description 
 The project contains two data set 
-- The employee data set containing 1,016 rows and columns
+- The employee data set containing 1,016 rows and 6 columns
 - Bonus rules containing thr rules for making payments to employee based on thier performance and department
 ## My Approach 
 - **Data cleaning and Transformation**: I extracted and load the data into power BI query editor to carry out the following steps:
