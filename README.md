@@ -49,6 +49,7 @@ Lagos= 20M
 
 ![palmoria 2](https://github.com/user-attachments/assets/bd920115-bba0-4488-88d3-be88941a6f60)
 
+ You can interact with the dashboard [Click](https://app.powerbi.com/view?r=eyJrIjoiZThhYTk3ZWUtYTRkMC00ZjA5LTljZWQtNzQ2MGM2MTYzYTk3IiwidCI6IjUzYjJmMWM0LWNiNjItNDc2MC04OTgyLWU4NGJmMDMwNmM4MiJ9)
 ## Recommendations 
 - Ensure employee in similar role and performance level are compensated fairly regardless of the gender
 - The salary should be reviewed to ensure minimum salary requirements is met
