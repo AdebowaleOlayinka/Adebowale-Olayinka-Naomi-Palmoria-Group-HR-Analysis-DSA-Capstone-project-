@@ -41,9 +41,9 @@ The table shows the gender pay gap across each department
 
 - **Allocation of Bonus and total payout(Salary+ Bonuses)**: The total bonus amount is 2.19M and the total payout is over 71M which is to be allocated to each employee across each department
 - **Pay out by Region**:
-kaduna= 27M
-Abuja = 25M
-Lagos= 20M
+- kaduna= 27M
+- Abuja = 25M
+- Lagos= 20M
 
 ![palmoria](https://github.com/user-attachments/assets/71648aa8-dbe5-461e-99ca-917f1e6f67b5)
 
