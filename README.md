@@ -39,7 +39,7 @@ The table shows the gender pay gap across each department
 |Human resources | 9.78%| Male earn more|
 | Service|8.03%| Male earn more|
 
-- **Allocation of Bonus and total payout(Salary+ Bonuses)**: The total bonus amount is ₦2.19M and the total payout is over 71M which is to be allocated to each employee across each department
+- **Allocation of Bonus and total payout(Salary+ Bonuses)**: The total bonus amount is ₦2.19M and the total payout is over ₦71M which is to be allocated to each employee across each department
 - **Pay out by Region**:
 - kaduna= ₦27M
 - Abuja = ₦25M
