@@ -1,4 +1,15 @@
 # Palmoria Group Analysis and Workforce Report
+
+## Table of contents 
+- [Project Overview](project-overview)
+- [Business Problem](business-problem)
+- [Project Objectives](project-objectives)
+- [Data Description](data-description)
+- [Tool Used](tool-used)
+- [My Approach](my-approach)
+- [Findings](findings)
+- [Dashboard Visuals](dashboard-visuals)
+- [Recommendations](recommendations)
 ## Project Overview 
 This project involves the analysis of Palmoria Group employees Data set to uncover the insight on staff population and identify gender pay gap with the organization.The report is to be visualized using power BI to gain insight on employee demographics, salary structure and more.
 ## Business Problem 
@@ -12,6 +23,8 @@ Palmoria Group is facing issues on gender inequality in its three regions locate
 The project contains two data set 
 - The employee data set containing 1,016 rows and 6 columns
 - Bonus rules containing thr rules for making payments to employee based on thier performance and department
+## Tool used
+- **Power BI**
 ## My Approach 
 - **Data cleaning and Transformation**: I extracted and load the data into power BI query editor to carry out the following steps:
 1. The Gender column contains male, female and blank cells. I replaced the blank cells with unspecified gender
@@ -21,6 +34,7 @@ The project contains two data set
 - **Added new columns**: I created a column column called salary range using a conditional statement to group the employee salary eg ₦10,000- ₦20,000, ₦20,000-₦30,000 etc
 - **Merged Tables**
 I was able to create a merged table by joining the employee table and bonus rules with the unique identifier which is the department and ratings columns
+
 
 ## Findings
 - **Gender Distribution**:Palmoria Group has a total number of 943 active employee in the organization which is splitted into 464 Male, 440 Female and 39 undisclosed Gender
@@ -44,7 +58,7 @@ The table shows the gender pay gap across each department
 - kaduna= ₦27M
 - Abuja = ₦25M
 - Lagos= ₦20M
-
+## Dashboard Visuals
 ![palmoria](https://github.com/user-attachments/assets/71648aa8-dbe5-461e-99ca-917f1e6f67b5)
 
 ![palmoria 2](https://github.com/user-attachments/assets/bd920115-bba0-4488-88d3-be88941a6f60)
