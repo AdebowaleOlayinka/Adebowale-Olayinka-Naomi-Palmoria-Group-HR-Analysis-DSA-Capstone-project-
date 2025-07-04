@@ -1,15 +1,15 @@
 # Palmoria Group Analysis and Workforce Report
 
 ## Table of contents 
-- [Project Overview](project-overview)
-- [Business Problem](business-problem)
-- [Project Objectives](project-objectives)
-- [Data Description](data-description)
-- [Tool Used](tool-used)
-- [My Approach](my-approach)
-- [Findings](findings)
-- [Dashboard Visuals](dashboard-visuals)
-- [Recommendations](recommendations)
+- [Project Overview](#project-overview)
+- [Business Problem](#business-problem)
+- [Project Objectives](#project-objectives)
+- [Data Description](#data-description)
+- [Tool Used](#tool-used)
+- [My Approach](#my-approach)
+- [Findings](#findings)
+- [Dashboard Visuals](#dashboard-visuals)
+- [Recommendations](#recommendations)
 ## Project Overview 
 This project involves the analysis of Palmoria Group employees Data set to uncover the insight on staff population and identify gender pay gap with the organization.The report is to be visualized using power BI to gain insight on employee demographics, salary structure and more.
 ## Business Problem 
