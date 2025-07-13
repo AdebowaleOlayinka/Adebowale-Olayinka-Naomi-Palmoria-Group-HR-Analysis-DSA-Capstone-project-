@@ -59,11 +59,13 @@ The table shows the gender pay gap across each department
 - Abuja = ₦25M
 - Lagos= ₦20M
 ## Dashboard Visuals
-![palmoria](https://github.com/user-attachments/assets/71648aa8-dbe5-461e-99ca-917f1e6f67b5)
+<img width="1229" height="545" alt="1palm" src="https://github.com/user-attachments/assets/fa225680-96da-4254-b339-b87521b00c99" />
+<img width="1230" height="559" alt="2 palm" src="https://github.com/user-attachments/assets/ecd00d7b-0dec-4b97-b5e1-f6ac6e784b4a" />
 
-![palmoria 2](https://github.com/user-attachments/assets/bd920115-bba0-4488-88d3-be88941a6f60)
+
 
  You can interact with the dashboard [Click](https://app.powerbi.com/view?r=eyJrIjoiZThhYTk3ZWUtYTRkMC00ZjA5LTljZWQtNzQ2MGM2MTYzYTk3IiwidCI6IjUzYjJmMWM0LWNiNjItNDc2MC04OTgyLWU4NGJmMDMwNmM4MiJ9)
 ## Recommendations 
 - Ensure employee in similar role and performance level are compensated fairly regardless of the gender
 - The salary should be reviewed to ensure minimum salary requirements is met
+
